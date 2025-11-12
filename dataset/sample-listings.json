@@ -1,0 +1,46 @@
+{
+  "listings": [
+    {
+      "id": 1,
+      "title": "iPhone 15 Pro Max",
+      "description": "Latest Apple smartphone with advanced camera",
+      "price": 1199.99,
+      "seller": "TechMart Official",
+      "rating": 4.8,
+      "review_count": 5234,
+      "category": "electronics",
+      "country": "US",
+      "images": ["https://example.com/iphone-1.jpg"],
+      "is_fake": 0,
+      "created_at": "2025-01-10T10:30:00Z"
+    },
+    {
+      "id": 2,
+      "title": "iPhone 15 PRO MAX SUPER DEAL!!!",
+      "description": "best price ever buy now limited stock",
+      "price": 199.99,
+      "seller": "RandomSeller123",
+      "rating": 2.1,
+      "review_count": 3,
+      "category": "electronics",
+      "country": "CN",
+      "images": ["https://example.com/fake-iphone.jpg"],
+      "is_fake": 1,
+      "created_at": "2025-01-10T11:15:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Samsung Galaxy S24 Ultra",
+      "description": "Premium Android flagship smartphone",
+      "price": 1299.0,
+      "seller": "Samsung Direct",
+      "rating": 4.7,
+      "review_count": 8421,
+      "category": "electronics",
+      "country": "US",
+      "images": ["https://example.com/s24.jpg"],
+      "is_fake": 0,
+      "created_at": "2025-01-10T12:00:00Z"
+    }
+  ]
+}
